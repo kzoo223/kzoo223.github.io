@@ -1,0 +1,201 @@
+
+
+
+/*all pages*/
+h1 {
+    font-size-adjust:1;
+}
+
+a{
+    color:white;
+}
+
+a:hover {
+    color: grey;
+    text-decoration:none;
+}
+
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+}
+
+.navbar-nav{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+/*index*/
+
+#indexBody{
+    background:url(../images/indexBackground.jpg);
+    background-size:cover;
+    
+}
+
+#indexContent{
+    margin-top: 150px;
+}
+
+#indexPageName{
+    font-size: 80px;
+    color: white;
+    font-family: 'Lobster', cursive;
+    -webkit-animation-name: fadeIn;
+      animation-name: fadeIn;
+      -webkit-animation-duration: 3s;
+        animation-duration: 3s;
+}
+
+#indexDescription{
+    color: white;
+    -webkit-animation-name: fadeIn;
+      animation-name: fadeIn;
+      -webkit-animation-duration: 3s;
+        animation-duration: 3s;
+        -webkit-animation-delay: 2s;
+}
+
+#indexNavigation{
+    font-size: 20px;
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+
+    -webkit-animation-name: fadeIn;
+      animation-name: fadeIn;
+      -webkit-animation-duration: 5s;
+        animation-duration: 5s;
+        -webkit-animation-delay: 3s;
+        
+}
+
+
+#socialMediaButtons{
+    -webkit-animation-name: fadeIn;
+      animation-name: fadeIn;
+      -webkit-animation-duration: 5s;
+        animation-duration: 5s;
+        -webkit-animation-delay: 4s;
+}
+
+.socialButton{
+    width:25px;
+    height:25px;
+}
+
+
+/*photography page*/
+.mainPage{
+    color: #FFFFFF;
+    margin-top: 150px;
+}
+
+.navbar {
+  background-color: transparent;
+  border: none;
+  
+}
+
+
+.photoCaption{
+    font-size:10px;
+}
+
+
+/*carousel*/
+html,
+body {
+    height: 100%;
+}
+
+#myCarousel{
+    -webkit-animation-name: fadeIn;
+      animation-name: fadeIn;
+      -webkit-animation-duration: 3s;
+        animation-duration: 2s;
+}
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+
+/*music & dev*/
+#musicBody{
+    background-color:black;
+}
+
+#devContent,
+#musicContent{
+    margin-top: 100px;
+}
+
+iframe{
+    border-style: none;
+}
+
+#devHeader,
+#musicHeader{
+    font-size: 80px;
+    color: white;
+    font-family: 'Lobster', cursive;
+     -webkit-animation-name: fadeIn;
+      animation-name: fadeIn;
+      -webkit-animation-duration: 3s;
+        animation-duration: 2s;
+}
+
+
+#heavenlyDogs{
+    -webkit-animation-name: fadeIn;
+      animation-name: fadeIn;
+      -webkit-animation-duration: 4s;
+        animation-duration: 4s;
+        -webkit-animation-delay: 1.5s;
+        
+}
+
+#soundcloud{
+    -webkit-animation-name: fadeIn;
+      animation-name: fadeIn;
+      -webkit-animation-duration: 4s;
+        animation-duration: 4s;
+        -webkit-animation-delay: 2.5s;
+}
+
+#faceTheMusic,
+#theStandard
+{
+  color:white;
+  font-family: 'PT Sans Narrow', sans-serif;
+
+  -webkit-animation-name: fadeIn;
+      animation-name: fadeIn;
+      -webkit-animation-duration: 4s;
+        animation-duration: 4s;
+        -webkit-animation-delay: 1.5s;
+}
+
+.sectionLogo{
+  max-width: 80%;
+}
