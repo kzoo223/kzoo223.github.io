@@ -16,11 +16,11 @@ a:hover {
 }
 
 .navbar-brand{
-    font-family: 'Lobster', cursive;
+    font-family: 'Poiret One', cursive;
 }
 
 .navbar-nav{
-    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Poiret One', cursive;
 }
 
 /*index*/
@@ -38,7 +38,7 @@ a:hover {
 #indexPageName{
     font-size: 80px;
     color: white;
-    font-family: 'Lobster', cursive;
+    font-family: 'Righteous', cursive;
     -webkit-animation-name: fadeIn;
       animation-name: fadeIn;
       -webkit-animation-duration: 3s;
@@ -47,23 +47,24 @@ a:hover {
 
 #indexDescription{
     color: white;
+    font-family: 'Poiret One', cursive;
     -webkit-animation-name: fadeIn;
       animation-name: fadeIn;
       -webkit-animation-duration: 3s;
         animation-duration: 3s;
-        -webkit-animation-delay: 2s;
+        -webkit-animation-delay: 1.5s;
 }
 
 #indexNavigation{
     font-size: 20px;
     color: white;
-    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Poiret One', cursive;
 
     -webkit-animation-name: fadeIn;
       animation-name: fadeIn;
       -webkit-animation-duration: 5s;
         animation-duration: 5s;
-        -webkit-animation-delay: 3s;
+        -webkit-animation-delay: 2.5s;
         
 }
 
@@ -73,7 +74,7 @@ a:hover {
       animation-name: fadeIn;
       -webkit-animation-duration: 5s;
         animation-duration: 5s;
-        -webkit-animation-delay: 4s;
+        -webkit-animation-delay: 3.5s;
 }
 
 .socialButton{
@@ -158,7 +159,7 @@ iframe{
 #musicHeader{
     font-size: 80px;
     color: white;
-    font-family: 'Lobster', cursive;
+    font-family: 'Righteous', cursive;
      -webkit-animation-name: fadeIn;
       animation-name: fadeIn;
       -webkit-animation-duration: 3s;
@@ -187,13 +188,13 @@ iframe{
 #theStandard
 {
   color:white;
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Poiret One', cursive;
 
   -webkit-animation-name: fadeIn;
       animation-name: fadeIn;
-      -webkit-animation-duration: 4s;
-        animation-duration: 4s;
-        -webkit-animation-delay: 1.5s;
+      -webkit-animation-duration: 3s;
+        animation-duration: 3s;
+        -webkit-animation-delay: 1s;
 }
 
 .sectionLogo{
