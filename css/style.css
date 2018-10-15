@@ -107,24 +107,7 @@ body {
     height: 100%;
 }
 
-#myCarousel{
-    -webkit-animation-name: fadeIn;
-      animation-name: fadeIn;
-      -webkit-animation-duration: 3s;
-        animation-duration: 2s;
-}
 
-.carousel,
-.item,
-.active {
-    height: 100%;
-}
-
-.carousel-inner {
-    height: 100%;
-}
-
-/* Background images are set within the HTML using inline CSS, not here */
 
 .fill {
     width: 100%;
