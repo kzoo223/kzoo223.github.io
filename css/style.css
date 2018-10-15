@@ -176,25 +176,21 @@ iframe{
         
 }
 
+#feralCreature{
+    -webkit-animation-name: fadeIn;
+      animation-name: fadeIn;
+      -webkit-animation-duration: 4s;
+        animation-duration: 4s;
+        -webkit-animation-delay: 2s;
+        
+}
+
 #soundcloud{
     -webkit-animation-name: fadeIn;
       animation-name: fadeIn;
       -webkit-animation-duration: 4s;
         animation-duration: 4s;
         -webkit-animation-delay: 2.5s;
-}
-
-#faceTheMusic,
-#theStandard
-{
-  color:white;
-  font-family: 'Poiret One', cursive;
-
-  -webkit-animation-name: fadeIn;
-      animation-name: fadeIn;
-      -webkit-animation-duration: 3s;
-        animation-duration: 3s;
-        -webkit-animation-delay: 1s;
 }
 
 .sectionLogo{
